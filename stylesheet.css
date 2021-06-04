@@ -16,17 +16,18 @@
   .header-logo {
     float: left;
     font-size: 40px;
-    padding: 20px 40px;
+    padding: 0px 40px;
     color:#8cbcfc;
     font-family:fantasy;
   }
-  
-  .header-list li {
 
-    padding: 10px 20px;
+  .header-list li {
+    padding: 0px 20px;
     float:right;
   }
-  
+  .icon{
+    float:right;
+  }
   .main {
     background-color: #7df8ec;
     height: 600px;
@@ -43,6 +44,7 @@
     float:left;
     padding:25px;
   }
+
   .footer {
     background-color: #96c9eb;
     color: #fff;
@@ -51,6 +53,6 @@
   }
 
   .footer-logo {
-    font-size: 32px;
+    font-size: 20px;
     float: left;
   }
